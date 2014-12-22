@@ -11,7 +11,7 @@ $(call inherit-product, device/htc/t6/device.mk)
 PRODUCT_DEVICE := t6
 PRODUCT_NAME := cm_t6
 PRODUCT_BRAND := htc
-PRODUCT_MODEL := One
+PRODUCT_MODEL := HTC One Max
 PRODUCT_MANUFACTURER := HTC
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
